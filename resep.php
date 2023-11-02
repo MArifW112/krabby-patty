@@ -10,5 +10,5 @@
     echo "6. Keju <br>";
     echo "7. Mayonaise <br>";
     echo "8. Roti <br>";
-
-    
+    echo "9. Wijen <br>";
+    echo "10. Selada <br>";
